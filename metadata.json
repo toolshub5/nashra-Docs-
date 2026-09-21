@@ -1,0 +1,7 @@
+{
+  "name": "Nashra Docs",
+  "description": "تطبيق قارئ وإدارة مستندات احترافي يدعم PDF وWord وExcel وPowerPoint والصور والنصوص مع عارض مدمج والتظليل والتوقيع وOCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
